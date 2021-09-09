@@ -11,6 +11,8 @@
 	<class>onetoone.Cliente</class>
 	<class>onetoone.ItemPedido</class>
 	<class>onetoone.Pedido</class>
+	<class>onetoone.Tio</class>
+	<class>onetoone.Sobrinho</class>
         
        <!--   <mapping-file>META-INF/consultas.xml</mapping-file>-->
         
